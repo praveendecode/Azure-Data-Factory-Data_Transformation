@@ -2,7 +2,7 @@
 
 ---
 
-### **Business Objective:**
+### **Business Requirements:**
 
 The objective of this project is to transform sales data from multiple rows with a single `ID` into a more readable and analytical columnar format using Azure Data Factory (ADF). The transformation process uses the Pivot transformation to change the rows into columns based on product names and corresponding sales. This transformation will enable easier analysis of sales performance across different products for each unique `ID`.
 
