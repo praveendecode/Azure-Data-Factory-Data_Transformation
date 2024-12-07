@@ -1,6 +1,4 @@
-# **Title:**
-
-## **Azure Data Factory Transformation - Sales Data Transformation**
+# **Azure Data Factory Transformation - Sales Data Transformation**
 
 ---
 
